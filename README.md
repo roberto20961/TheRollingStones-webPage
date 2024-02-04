@@ -5,6 +5,7 @@ The webpage was one of my first works in the world of coding, and its not optimi
 
 Note: The page might not be shown in the real size in any device, except a computer with a 1920x1080 resolution screen.
 Note: The page has a very basic design and it is done Spanish.
+Note: The 'Formulario' section does not send the information to any server, it is just decorative.
 
 The page work-system is very easy to understand:
 1. 'index.html' is the main page, the one which pops out when you click the webpage, and it is the parent directory.
