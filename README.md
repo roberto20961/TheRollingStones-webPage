@@ -1,2 +1,6 @@
 # TheRollingStones-webPage
-Infotmative basic WebPage about The Rolling Stones
+Informative basic WebPage about The Rolling Stones.
+This webpage is designed in HTML and stylized with CSS, work done by Roberto Mindrila.
+
+Note: The page might not be shown in the real size in any device, except a computer with a 1920x1080 resolution screen.
+Note: The page has a very basic design and the language it is done is Spanish.
